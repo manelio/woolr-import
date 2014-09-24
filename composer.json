@@ -1,0 +1,10 @@
+{
+  "require": {
+    "symfony/console": "2.6.*@dev"
+  },
+  "autoload": {
+    "psr-0": {
+      "": "src/"
+    }
+  }
+}
