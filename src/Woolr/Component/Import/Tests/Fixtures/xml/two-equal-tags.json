@@ -1,0 +1,17 @@
+{
+  "_tag": "feed",
+  "entry": {
+    "_tag": "entry",
+    "_value": ""
+  },
+  "entryMul": [
+    {
+      "_tag": "entry",
+      "_value": ""
+    },
+    {
+      "_tag": "entry",
+      "_value": ""
+    }
+  ]
+}

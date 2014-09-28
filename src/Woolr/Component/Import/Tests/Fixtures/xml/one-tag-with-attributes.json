@@ -1,0 +1,10 @@
+{
+  "_tag": "feed",
+  "entry": {
+    "_tag": "entry",
+    "_attr": {
+      "type": "text"
+    },
+    "_value": ""
+  }
+}

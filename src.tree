@@ -1,0 +1,44 @@
+src/  
+  Mio/
+    Component/
+      Parser/
+        Xml.php
+        Xml/
+          Context.php
+
+  Woolr/
+    Command/
+      ImportCommand.php
+    
+    Component/
+      Connection/
+        Db.php
+
+      Import/
+        Parser/
+          Blogger.php
+          Wordpress.php
+
+        Tests/
+          Fixtures/
+            xml/
+              only-root.xml
+              only-root.json
+
+              one-tag.xml
+              one-tag.json
+
+              two-equal-tags.xml
+              two-equal-tags.json
+
+              one-tag-with-attributes.xml
+              one-tag-with-attributes.json
+              
+            blogger.xml
+            blogger-post.xml
+            wordpress.xml
+
+          Parser/
+            XmlTest.php
+            BloggerTest.php
+            WordpressTest.php
